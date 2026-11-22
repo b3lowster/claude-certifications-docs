@@ -1,1 +1,0 @@
-# claude-certifications-docs
